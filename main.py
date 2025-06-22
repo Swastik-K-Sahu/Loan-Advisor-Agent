@@ -227,7 +227,7 @@ def start_flask_server():
 
 def main():
     """Main application entry point."""
-    print("🎙️  Welcome to the Twilio Voice AI Loan Advisor System!")
+    print("Welcome to the AI Loan Advisor Assistant!")
 
     
     # Validate Twilio configuration
@@ -263,8 +263,7 @@ def main():
                 
                 if make_outbound_call(customer_phone):
                     print("✅ Call initiated successfully!")
-                    print("🎙️  The AI agent will start the conversation when the call is answered.")
-                    print("📱 You can monitor the call status in the console.")
+
                 else:
                     print("❌ Failed to initiate call.")
                 
@@ -287,7 +286,6 @@ def main():
         print("Please check your configuration and try again.")
         return
     
-    print("\n👋 Thank you for using the Twilio Voice AI Loan Advisor System!")
     print("🏢 ABC Financial Services - Serving you better with AI")
 
 if __name__ == "__main__":
