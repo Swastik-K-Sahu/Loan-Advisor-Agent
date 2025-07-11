@@ -10,6 +10,12 @@ Automated voice agent for loan management that handles customer verification, EM
 - **Response Recording**: Tracks Paid/Promise to Pay/Dispute responses
 - **Smart Escalation**: Automatically escalates complex cases
 
+## Demo
+Here are some demonstrations of the Conversational AI Loan Advisor Agent in action:
+
+*  [Demo 1](https://drive.google.com/file/d/1cQNhTT5K0PeYaRaeSSNXXDWAVkYvk53i/view?usp=sharing)
+*  [Demo 2](https://drive.google.com/file/d/1cZHRQpuoYr-NHLSIGyO73nVqj_6GNndh/view?usp=sharing)
+
 ## Quick Setup
 
 ### 1. Environment Setup
